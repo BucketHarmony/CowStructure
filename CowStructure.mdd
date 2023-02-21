@@ -1,0 +1,7 @@
+graph TD;
+    SCI[Seed Capital Investors] -->|Purchase| LandTrust[Land Trust];
+    LandTrust -->|Lease| OperationalCoop[Operational Cooperative];
+    LandTrust -->|Lease| ConsumersCoop[Consumers Cooperative];
+    OperationalCoop -->|Uses| LandTrust;
+    ConsumersCoop -->|Uses| LandTrust;
+    ConsumersCoop -->|Serves| Customers;
