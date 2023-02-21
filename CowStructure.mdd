@@ -1,3 +1,4 @@
+```mermaid
 graph TD;
     SCI[Seed Capital Investors] -->|Purchase| LandTrust[Land Trust];
     LandTrust -->|Lease| OperationalCoop[Operational Cooperative];
