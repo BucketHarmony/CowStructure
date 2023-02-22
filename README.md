@@ -24,7 +24,7 @@ The Board of Directors are elected by the members of the The Operational Coopera
 
 
 
-# CowStructure Before Purchase is Complete
+# CowStructure Before Purchase Agreement between SCI and the Land Trust is Complete
 ```mermaid
 graph TD;
     SCI[Seed Capital Investors] -->|Purchases| Land[Land];
@@ -42,7 +42,7 @@ graph TD;
     ConsumersCoop -->|chooses| Board[Board of Directors];
 ```
     
-# CowStructure After Purchase is Complete
+# CowStructure After Purchase Agreement between SCI and the Land Trust is Complete
 ```mermaid
 graph TD;
     LandTrust[Land Trust] -->|Owns| Land[Land];
@@ -55,4 +55,7 @@ graph TD;
     EcologicalCovenant -.->|Ensured by| Board;
     Board -->|Elected by| OperationalCoop;
     Board -->|Elected by| ConsumersCoop;
+    OperationalCoop -->|Contributes to| LandTrustFund[The Land Trust Purchasing Fund];
+    ConsumersCoop -->|Contributes to| LandTrustFund[The Land Trust Purchasing Fund];
+    LandTrust -->|Manages| LandTrustFund[The Land Trust Purchasing Fund];
 ````
