@@ -18,7 +18,7 @@ The Board of Directors Voting members will be as follows:
 1 member chosen by The Operational Cooperative (F)
 1 member chosen by The Consumers Cooperative (I)
 
-In the state, after the Land Trust has completed the purchase of the land:
+After the Land Trust has completed the purchase of the land:
 The Board of Directors has 7 voting members.
 The Board of Directors are elected by the members of the The Operational Cooperative and the Consumers Cooperative
 
