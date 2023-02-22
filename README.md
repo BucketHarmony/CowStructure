@@ -1,4 +1,4 @@
-# CowStructure of Capital & Ownership
+# CowStructure: Capital & Ownership
 Initially, the Seed Capital Investors (SCI) purchase the Land.
 The Land Trust enters into a land contract or purchase agreement with the SCI.
 The Land Trust then grants a 99 year lease to two cooperatives:
@@ -24,7 +24,7 @@ The Board of Directors are elected by the members of the The Operational Coopera
 
 
 
-# CowStructure Before Purchase Agreement between SCI and the Land Trust is Complete
+# CowStructure: Before Purchase Agreement between SCI and the Land Trust is Complete
 ```mermaid
 graph TD;
     SCI[Seed Capital Investors] -->|Purchases| Land[Land];
@@ -42,7 +42,7 @@ graph TD;
     ConsumersCoop -->|chooses| Board[Board of Directors];
 ```
     
-# CowStructure After Purchase Agreement between SCI and the Land Trust is Complete
+# CowStructure: After Purchase Agreement between SCI and the Land Trust is Complete
 ```mermaid
 graph TD;
     LandTrust[Land Trust] -->|Owns| Land[Land];
